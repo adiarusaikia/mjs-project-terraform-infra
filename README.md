@@ -1,2 +1,1 @@
-# mjs-project-terraform-infra
-this is github repo resouce for terraform
+# This prod repository is for terraform developers.
